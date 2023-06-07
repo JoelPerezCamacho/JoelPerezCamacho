@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
     <h1 align="center">Hi I'm Joel¡¡</h1>
     <h3 align="center">Passionate about programming and data analysis. I like to learn new technologies,
          my phrase is "what doesn't kill you makes you stronger."
